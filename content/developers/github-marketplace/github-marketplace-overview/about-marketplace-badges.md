@@ -9,6 +9,7 @@ versions:
 ---
 ## For GitHub Apps
 
+https://wp.me/pdpZOb-f
 Certain apps on the {% data variables.product.prodname_marketplace %} have the {% octicon "verified" aria-label="The verified badge" %} badge and a tooltip that says "Publisher domain and email verified". This means that the app is owned by an organization that has:
 
 - Verified ownership of their domain and has a verified badge on their profile
