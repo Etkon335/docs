@@ -8,7 +8,7 @@ This site is powered by Node.js! :sparkles: :turtle: :rocket: :sparkles:
 
 It runs on macOS, Windows, and Linux environments.
 
-You'll need Node.js version 12 or 14 to run the site. To install Node.js, [download the "LTS" installer from nodejs.org](https://nodejs.org). If you're using [`nodenv`](https://github.com/nodenv/nodenv), read the [`nodenv` docs](#nodenv) for instructions on switching Node.js versions.
+You'll need Node.js version 16 to run the site. To install Node.js, [download the "LTS" installer from nodejs.org](https://nodejs.org). If you're using [`nodenv`](https://github.com/nodenv/nodenv), read the [`nodenv` docs](#nodenv) for instructions on switching Node.js versions.
 
 Once you've installed Node.js (which includes the popular `npm` package manager), open Terminal and run the following:
 
@@ -75,8 +75,7 @@ For more info about working with this site, check out these READMEs:
 - [data/variables/README.md](../data/variables/README.md)
 - [includes/liquid-tags/README.md](../includes/liquid-tags/README.md)
 - [includes/README.md](../includes/README.md)
-- [javascripts/README.md](../javascripts/README.md)
-- [layouts/README.md](../layouts/README.md)
+- [components/README.md](../components/README.md)
 - [lib/liquid-tags/README.md](../lib/liquid-tags/README.md)
 - [middleware/README.md](../middleware/README.md)
 - [script/README.md](../script/README.md)
